@@ -1,0 +1,18 @@
+{
+    "os": "Darwin-18.7.0-x86_64-i386-64bit",
+    "python": "3.7.4",
+    "heartbeatAt": "2022-03-10T14:58:24.172920",
+    "startedAt": "2022-03-10T14:58:19.909211",
+    "docker": null,
+    "cpu_count": 4,
+    "cuda": null,
+    "args": [
+        "--experiment_id=20"
+    ],
+    "state": "running",
+    "program": "train.py",
+    "codePath": "train.py",
+    "host": "Alyssas-MacBook-Pro-2.local",
+    "username": "alyssaunell",
+    "executable": "//anaconda3/bin/python"
+}
